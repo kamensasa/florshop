@@ -1,0 +1,7 @@
+.pagination {
+    --bs-pagination-color: red;
+}
+.active > .page-link {
+    background-color: orange !important;
+    --bs-pagination-active-border-color: red;
+}
